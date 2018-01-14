@@ -1,0 +1,9 @@
+[submodule "PrettyFunctionName"]
+	path = PrettyFunctionName
+	url = git@github.com:dormon/PrettyFunctionName.git
+[submodule "ValueToString"]
+	path = ValueToString
+	url = git@github.com:dormon/ValueToString.git
+[submodule "CMakeLibrary"]
+	path = CMakeLibrary
+	url = git@github.com:dormon/CMakeLibrary.git
